@@ -1,0 +1,155 @@
+{
+    "products": [
+        {
+            "slug": "tech-challenge",
+            "name": "NikeCourt Tech Challenge 20",
+            "imageSrc": "/assets/tech-challenge.jpg",
+            "price": 16500,
+            "category": "shoes"
+          
+          },
+          {
+            "slug": "metcon-5",
+            "name": "Nike Metcon 5 AMP",
+            "imageSrc": "/assets/metcon-5.jpg",
+            "price": 16500,
+            "category": "shoes"
+            
+          },
+          {
+            "slug": "phantom",
+            "name": "Nike Phantom Vision",
+            "imageSrc": "/assets/phantom.jpg",
+            "price": 16500,
+            "category": "shoes"
+            
+          },
+          {
+            "slug": "pegasus",
+            "name": "Nike Air Zoom Pegasus",
+            "imageSrc": "/assets/pegasus.jpg",
+            "price": 16500,
+            "category": "shoes"
+            
+          },
+          {
+            "slug": "joyride",
+            "name": "Nike Joyride Dual Run",
+            "imageSrc": "/assets/joyride.jpg",
+            "price": 17000,
+            "category": "shoes"
+            
+          },
+          {
+            "slug": "legend-academy",
+            "name": "Nike Tiempo Legend 8",
+            "imageSrc": "/assets/legend-academy.jpg",
+            "price": 16500,
+            "category": "shoes"
+            
+          },
+          {
+            "slug": "react-infinity",
+            "name": "Nike React Infinity Pro",
+            "imageSrc": "/assets/react-infinity.jpg",
+            "price": 16000,
+            "category": "shoes"
+            
+          },
+          {
+            "slug": "phantom-flyknit",
+            "name": "Nike React Phantom Run Flyknit 2",
+            "imageSrc": "/assets/phantom-flyknit.jpg",
+            "price": 18500,
+            "category": "shoes"
+            
+          },
+          {
+            "slug": "lebron",
+            "name": "LeBron 17",
+            "imageSrc": "/assets/lebron.jpg",
+            "price": 26000 ,
+            "category": "shoes"
+          },
+        {
+          "slug": "air-jordan",
+          "name": "Air Jordan",
+          "imageSrc": "/assets/tech-challenge.jpg",
+          "price": 16500,
+          "category": "shoes"
+        },
+        {
+          "slug": "nike-shirt",
+          "name": "Nike Shirt",
+          "imageSrc": "/assets/nike-shirt-1.jpg",
+          "price": 16500,
+          "category": "shirts"
+        },
+        {
+          "slug": "addidas-shirt",
+          "name": "Addidas Shirt",
+          "imageSrc": "/assets/nike-shirt-2.jpg",
+          "price": 16500,
+          "category": "shirts"
+        },
+        {
+          "slug": "addidas-air-shirt",
+          "name": "Addidas Air Shirt",
+          "imageSrc": "/assets/nike-shirt-3.jpg",
+          "price": 16500,
+          "category": "shirts"
+        },
+        {
+          "slug": "Nike air shirt",
+          "name": "Nike Shirt",
+          "imageSrc": "/assets/addidas-shirt-1.jpg",
+          "price": 16500,
+          "category": "shirts"
+        },
+        {
+          "slug": "addidas-shirt",
+          "name": "Addidas Shirt",
+          "imageSrc": "/assets/addidas-shirt-2.jpg",
+          "price": 16500,
+          "category": "shirts"
+        },
+        {
+          "slug": "addidas-air-shirt",
+          "name": "Addidas Air Shirt",
+          "imageSrc": "/assets/addidas-shirt-1.jpg",
+          "price": 16500,
+          "category": "shirts"
+        },
+        {
+          "slug": "nike-shirt",
+          "name": "Nike Shirt",
+          "imageSrc": "/assets/addidas-shirt-1.jpg",
+          "price": 16500,
+          "category": "shirts"
+        },
+        {
+          "slug": "addidas-shirt",
+          "name": "Addidas Shirt",
+          "imageSrc": "/assets/nike-shirt-1.jpg",
+          "price": 10000,
+          "category": "shirts"
+        },
+        {
+          "slug": "addidas-air-shirt",
+          "name": "Addidas Air Shirt",
+          "imageSrc": "/assets/nike-shirt-3.jpg",
+          "price": 15300,
+          "category": "shirts"
+        },
+        {
+          "slug": "addidas-air-shirt",
+          "name": "Addidas Air Shirt",
+          "imageSrc": "/assets/addidas-shirt-1.jpg",
+          "price": 12000,
+          "category": "shirts"
+        }
+
+        
+    ]
+}
+
